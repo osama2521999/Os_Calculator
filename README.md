@@ -1,16 +1,15 @@
-# calculator_app
+# Os_Calculator
 
-A new Flutter project.
+A Calculator Flutter project .
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+It,s a Calculator flutter project , using :
 
-A few resources to get you started if this is your first Flutter project:
+-BlocStateManagement
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# UI
+
+<img src="https://user-images.githubusercontent.com/58815062/201600829-990cd2ce-b4f9-45bc-be8e-6266122a9ad1.png" style=" width:500px ; height:500px " />
+
